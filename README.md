@@ -7,7 +7,7 @@
 
 📫 You can reach me on <a href="https://www.linkedin.com/in/dharti-tejani-certified-shopify-expert-5804061b0" rel="nofollow">Linkdin</a> OR <a href="https://www.upwork.com/freelancers/~01b72d288baa55273c" rel="nofollow">Upwork</a>
 
-📄 Know about my experiences on Linkedin
+📄 Know about my experiences on <a href="https://www.linkedin.com/in/dharti-tejani-certified-shopify-expert-5804061b0" rel="nofollow">Linkdin</a>
 
 ✎   I’m currently working with PHP, Wordpress,Javascript, React, Redux, Next JS, Gutenberg Block, Typescript, React Native, Vue JS, Node JS, Tailwind CSS, MySQL, Docker and so on...
 
