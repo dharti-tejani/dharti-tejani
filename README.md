@@ -1,5 +1,13 @@
 ### Hi there 👋
+🏆 700 Hrs Experience on Upwork.
+🏆 100% Job Success ratio.
+🏆 1000 Successfully satisfied project outcomes.
 
+My key skills in Shopify :
+✔ Shopify theme integration
+✔ eCommerce website on Shopify engine with Amazon integration
+✔ PSD to Shopify integration
+✔ Shopify customization
 <!--
 **dharti-tejani/dharti-tejani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
