@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I have been into coding websites since 2015, I take small, mid to large projects of online stores to design, build on Shopify,👋
 🏆 700 Hrs Experience on Upwork.
 🏆 100% Job Success ratio.
 🏆 1000 Successfully satisfied project outcomes.
