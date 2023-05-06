@@ -3,6 +3,9 @@
 🏆 100% Job Success ratio.
 🏆 1000 Successfully satisfied project outcomes.
 
+✎   I’m currently working with PHP, Wordpress,Javascript, React, Redux, Next JS, Gutenberg Block, Typescript, React Native, Vue JS, Node JS, Tailwind CSS, MySQL, Docker and so on...
+
+
 My key skills in Shopify :
 ✔ Shopify theme integration
 ✔ eCommerce website on Shopify engine with Amazon integration
